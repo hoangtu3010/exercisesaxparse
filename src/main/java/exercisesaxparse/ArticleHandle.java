@@ -1,3 +1,6 @@
+package exercisesaxparse;
+
+import exercisesaxparse.Article;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;

@@ -1,3 +1,5 @@
+package exercisesaxparse;
+
 public class Article {
     private String title;
     private String pubDate;
@@ -14,7 +16,7 @@ public class Article {
 
     @Override
     public String toString() {
-        return "Article{" +
+        return "exercisesaxparse.Article{" +
                 "title='" + title + '\'' +
                 ", pubDate='" + pubDate + '\'' +
                 ", link='" + link + '\'' +
